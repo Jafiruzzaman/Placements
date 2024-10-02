@@ -49,7 +49,7 @@ public class dataTypes {
 
 //        6. boolean datatype
         boolean isAuthenticate = false;
-        System.out.println(false);
+        System.out.println(isAuthenticate);
 
 //        7. char datatype
         char c = 'c';
